@@ -1,4 +1,4 @@
-package com.acc;
+package org.tdm;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

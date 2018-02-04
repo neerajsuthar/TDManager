@@ -3,10 +3,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.acc</groupId>
+	<groupId>org.tdm</groupId>
 	<artifactId>test-mask-tool</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<!-- <packaging>jar</packaging> -->
+	<packaging>jar</packaging>
 
 	<name>test-mask-tool</name>
 	<description>Demo project for Spring Boot</description>
@@ -63,6 +63,7 @@
 			<id>neeraj.suthar</id>
 			<email>suthar.nrj@gmail.com</email>
 			<name>NEERAJ SUTHAR</name>
+
 			<roles>
 				<role>Developer</role>
 			</roles>
