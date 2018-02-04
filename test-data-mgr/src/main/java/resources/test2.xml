@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<appId>0001</appId>
+	<appName>app1</appName>
+	<data>
+		<age>25</age>
+		<designation>Associate Developer</designation>
+		<employee-name>User1</employee-name>
+		<employee-password>password_01</employee-password>
+	</data>
+	<data>
+		<age>25</age>
+		<designation>Associate Tester</designation>
+		<employee-name>User2</employee-name>
+		<employee-password>password_02</employee-password>
+	</data>
+	<data>
+		<age>25</age>
+		<designation>Associate Engineer</designation>
+		<employee-name>User3</employee-name>
+		<employee-password>password_03</employee-password>
+	</data>
+	<dataFormat>xml</dataFormat>
+	<masked>
+		<age>N</age>
+		<designation>Y</designation>
+		<employee-name>Y</employee-name>
+		<employee-password>Y</employee-password>
+	</masked>
+</root>

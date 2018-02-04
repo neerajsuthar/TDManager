@@ -1,0 +1,26 @@
+{
+	"appId": "0001",
+	"appName": "app1",
+	"dataFormat": "json",
+	"data": [{
+			"employee-name": "User1",
+			"age": "25",
+			"salary": "5421"
+		},
+		{
+			"employee-name": "User2",
+			"age": "25",
+			"salary": "3266"
+		},
+		{
+			"employee-name": "User3",
+			"age": "25",
+			"salary": "8322"
+		}
+	],
+	"masked": {
+		"employee-name": "Y",
+		"age": "N",
+		"salary": "Y"
+	}
+}

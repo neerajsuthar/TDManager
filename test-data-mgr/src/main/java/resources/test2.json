@@ -1,0 +1,30 @@
+{
+	"appId": "0001",
+	"appName": "app1",
+	"dataFormat": "json",
+	"data": [{
+			"employee-name": "User1",
+			"age": "25",
+			"employee-password": "password_01",
+			"designation": "Associate Developer"
+		},
+		{
+			"employee-name": "User2",
+			"age": "25",
+			"employee-password": "password_02",
+			"designation": "Associate Tester"
+		},
+		{
+			"employee-name": "User3",
+			"age": "25",
+			"employee-password": "password_03",
+			"designation": "Associate Engineer"
+		}
+	],
+	"masked": {
+		"employee-name": "Y",
+		"age": "N",
+		"employee-password": "Y",
+		"designation": "Y"
+	}
+}
